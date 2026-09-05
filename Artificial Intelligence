@@ -1,0 +1,12 @@
+# Artificial Intelligence
+
+Artificial Intelligence (AI) atau Kecerdasan Buatan adalah cabang ilmu komputer
+yang memungkinkan mesin untuk meniru kemampuan kognitif manusia — seperti mengenali pola, 
+memahami bahasa, mengambil keputusan, dan belajar dari data.
+
+# Terdapat berbagai tingkatan dari AI:
+1. Machine Learning (ML) adalah mesin belajar menemukan pola dari data tanpa diprogram secara eksplisit untuk setiap aturan
+2. Deep Learning bagian dari pengembangan ML menggunakan neural network berlapis-lapis untuk menangani data yang lebih kompleks 
+(gambar, suara, teks).
+3. Large Language Model (LLM) atau model deep learning yang dilatih khusus untuk memahami dan menghasilkan bahasa manusia, 
+seperti GPT dan Claude.
