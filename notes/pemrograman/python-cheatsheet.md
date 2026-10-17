@@ -20,7 +20,7 @@ Ringkasan sintaks Python 3 untuk pemula: dasar, list/dict, fungsi, OOP, dan file
 
 ```python
 # ini komentar
-nama = "Farhan"      # str (teks)
+nama = "Budi"      # str (teks)
 umur = 20            # int (bilangan bulat)
 tinggi = 1.7         # float (desimal)
 mahasiswa = True     # bool (True / False)
